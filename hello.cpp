@@ -4,5 +4,5 @@ int main(){
 char a;
 cin>>a;
 cout <<"Hello world! "<<a<<endl;
-cout <<"Enache";
+cout <<"Enache xdd";
 return 0;
